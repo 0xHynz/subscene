@@ -4,7 +4,7 @@ from .scrap import Functions as func
 from .scrap import Subscene as subs
 
 options = ['genre','tahun','bahasa']
-banner = "\nSupport me in \033[92mhttps://trakteer.id/dhoftna\033[97m\ncredit: subscene.my.id"
+banner = "\nSupport me in \033[92mhttps://trakteer.id/0xhynz\033[97m\ncredit: subscene.my.id"
 
 def looping_result(__):
     n = 0;print()
